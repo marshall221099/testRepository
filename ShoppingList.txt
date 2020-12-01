@@ -6,4 +6,4 @@ Peaches
 Mango
 Lemon
 Guava
-Apples
+apples
